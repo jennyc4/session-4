@@ -1,20 +1,27 @@
 * {
 	box-sizing: border-box;
+
 }
 
 html, body {
 	margin: 0;
+	font-family: "Georgia";
 }
 
 header, footer {
+	background-color: #FFC0CB;
 
 }
 
 .centered {
-
+	padding-top: 24px;
+	padding-bottom: 18px;
+	width: 70%;
+	margin: auto;
 }
 
 header .subtitle {
+
 
 }
 
@@ -32,27 +39,36 @@ ul li {
 }
 
 main {
+	width: 60%;
+	margin: auto;
 
 }
 
 section {
-
+	
 }
 
 h2 {
+	color: #FFC0CB;
 
 }
 
 h3 {
-
+	width: 90%;
+	margin: auto;
+	color: #FFC0CB;
 }
 
-p {
+article p {
+	width: 90%;
+	margin: auto;
 
 }
 
 .details {
-
+	color: #FFC0CB;
+	width: 90%;
+	margin: auto;
 }
 
 .object {
